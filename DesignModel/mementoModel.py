@@ -51,7 +51,8 @@ class role_state_caretaker(object):
     """
     role_state_caretaker ： 角色状态管理者
     """
-
+    def update(self):
+        print("测试码云")
     def set_role_caretaker(self, memento):
         self.__memento = memento
 
