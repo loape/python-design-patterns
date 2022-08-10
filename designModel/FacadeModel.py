@@ -5,6 +5,7 @@
 # @Time    : 2020/10/27 20:00
 # Email    : shizhiwei@canway.net
 # instruction  : 设计模式之外观模式
+# 修改了大小写进行提交
 
 class sub_system_one(object):
     def method(self):
